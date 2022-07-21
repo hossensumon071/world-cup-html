@@ -13,6 +13,9 @@ body{
     width: 90%;
     margin: 3% auto; 
 }
+/******************
+   hero ara
+*******************/
 .hero-area{
     display: flex;
     justify-content: center;
@@ -65,6 +68,11 @@ body{
 .hero-text span{
     margin-left: 5px;
 }
+
+/******************
+   match box ara
+*******************/
+
 .match-box-area{
     display: grid;
     grid-template-columns: 312px auto;
@@ -145,6 +153,12 @@ body{
     line-height: 20px;
     color: #4D4D4D;
 }
+
+/******************
+   Footer ara
+*******************/
+
+
 .footer-area {
     width: 100%;
     height: 300px;
@@ -190,7 +204,7 @@ body{
     margin-bottom: 130px;
 }
 
-/* blog page  */
+/* Index2 page  */
 .player-box {
     width: 262px;
     height: 362px;
@@ -251,6 +265,8 @@ a.blog-btn {
     background: #DD0000;
     color: #fff
 }
+
+
 
 /* Media Quaries */
 
